@@ -9,3 +9,6 @@
 ### If you want to see my dashboard, click here:
 
 [![Power BI](https://img.shields.io/badge/Power_BI-yellow)](https://app.powerbi.com/view?r=eyJrIjoiMzA4MTE0NzctYWZhYS00Y2I0LWE0NmItMGJjOTY0ZGZhMGY2IiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9)
+
+
+![sreenshot](https://github.com/user-attachments/assets/5ceb4085-eefa-4208-ac32-b2e9cc68085b)
